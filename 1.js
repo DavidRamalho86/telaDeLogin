@@ -1,4 +1,4 @@
-function calcularImposto) {
+function calcularImposto() {
     var valorCompra = parseFloat(document.getElementById("valorCompra").value);
     var desconto = 0;
 
